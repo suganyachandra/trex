@@ -116,8 +116,6 @@ function draw() {
       reset();
     }
   }
-  
-  
   drawSprites();
 }
 
